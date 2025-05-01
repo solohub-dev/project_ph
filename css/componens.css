@@ -1,0 +1,75 @@
+/* це файл компонентів css які як шаблони будуть використовуватись далі */
+/* button */
+.button--brown{
+/* border: 2px solid #352228; */
+background-color: #352228;
+font-weight: 700;
+font-size: 14.3px;
+color: #fff;
+line-height: 1.2;
+letter-spacing: 0.5px;
+padding-inline: 32px;
+padding-block: 18px;
+transition: all 0.3s ease;
+
+}
+
+.button--light--min {
+    box-sizing: border-box;
+    border: 2px solid #352228;
+    font-weight: 700;
+    font-size: 13px;
+    color: #352228;
+    text-align: center;
+    block-size: 53.1562px;
+    inline-size: 150px;
+    line-height: 17.3329px;
+    letter-spacing: 0.5px;
+    padding-block: 16px;
+    transition: all 0.3s ease;
+
+}
+
+.button--light {
+box-sizing: border-box;
+border: 2px solid #352228;
+font-weight: 700;
+font-size: 14.3px;
+color: #352228;
+line-height: 1.2;
+letter-spacing: 0.5px;
+padding-inline: 32px;
+padding-block: 16px;
+transition: all 0.3s ease;
+
+}
+
+.button--transparent {
+    background-color: transparent;
+}
+
+.button--transparent:hover {
+    background-color: #c2c0ba;
+}
+
+.button--brown-min{
+border: 2px solid #352228;
+background-color: #352228;
+font-weight: 700;
+box-sizing: border-box;
+font-size: 13px;
+color: #fff;
+text-align: center;
+block-size: 53.1562px;
+inline-size: 150px;
+line-height: 17.3329px;
+letter-spacing: 0.5px;
+padding-block: 16px;
+transition: all 0.3s ease;
+
+
+}
+
+.button--brown--hov:hover {
+    background-color: #4f4448;
+}
