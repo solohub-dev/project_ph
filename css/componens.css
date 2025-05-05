@@ -73,3 +73,7 @@ transition: all 0.3s ease;
 .button--brown--hov:hover {
     background-color: #4f4448;
 }
+.button--brown--hov--light:hover {
+    background-color: #352228;
+    color: #fff;
+}
